@@ -1,0 +1,12 @@
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.csprojResolveAssemblyReference.cache
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.csproj.CoreCompileInputs.cache
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe.config
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.exe
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriverDemo.pdb
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.dll
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\WebDriver.xml
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.exe
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\obj\Debug\WebDriverDemo.pdb
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\Protractor.dll
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\Protractor.pdb
+C:\Users\jhall\Desktop\Selenium Test\WebDriverDemo\WebDriverDemo\bin\Debug\Protractor.xml
